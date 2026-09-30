@@ -1,18 +1,18 @@
 <div align="center">
 
-# Hey there, I'm Aditya Yadav 👋
+# 👋 Hey, I'm Aditya Yadav
 
-### 🎓 B.Tech IT Student &nbsp; | &nbsp; 📊 Data Analyst Enthusiast &nbsp; | &nbsp; 🤖 AI/ML Enthusiast
+### 🎓 B.Tech IT Student &nbsp; | &nbsp; 📊 Aspiring Data Analyst &nbsp; | &nbsp; 🤖 AI/ML Enthusiast
 
 <p>
   <a href="https://github.com/adityayadav211207">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/aditya-yadav-347591334">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:adityayadav21122007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -20,30 +20,35 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech in **Information Technology**
-- 📊 Aspiring **Data Analyst**
-- 🐍 Passionate about **Python, SQL & Data Analytics**
-- 🤖 Interested in **AI, Machine Learning & Generative AI**
-- 📈 Love turning raw data into meaningful insights
-- 🚀 Building practical AI and data-driven applications
-- 💡 Always learning and improving my technical skills
+I'm a **B.Tech Information Technology student** passionate about **Data Analytics, Artificial Intelligence, Machine Learning, and Generative AI**.
+
+I enjoy working with data, building intelligent applications, and converting real-world problems into practical technology solutions.
+
+- 🎓 Pursuing B.Tech in Information Technology
+- 📊 Aspiring Data Analyst
+- 🐍 Strong interest in Python and SQL
+- 📈 Interested in Data Cleaning, EDA and Data Visualization
+- 🤖 Exploring Machine Learning and Generative AI
+- 🔗 Working with LangChain and Gemini APIs
+- 🚀 Building real-world AI and data-driven projects
+- 💡 Continuously learning and improving my technical skills
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Technical Skills
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
 
-### 📊 Data Analytics
+### 📊 Data Analytics & Visualization
 
 <p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
@@ -52,14 +57,13 @@
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
-### 🤖 AI / Machine Learning
+### 🤖 AI & Machine Learning
 
 <p>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge">
-<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white">
 </p>
 
 ### 🌐 Web & Backend
@@ -76,94 +80,165 @@
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🌾 Bharat Crop Intelligence System
+## 🌾 [Bharat Crop Intelligence System](https://github.com/adityayadav211207/bharat-crop-intelligence)
 
 **React · FastAPI · PyTorch · MobileNetV3 · MySQL · Streamlit**
 
-AI-powered crop risk assessment platform combining multiple intelligence modules:
+An **AI-powered agricultural decision-support platform** designed to help assess crop risks using multiple factors instead of relying on a single prediction.
 
-- 🌿 Leaf Disease Detection
-- 🌦️ Weather Risk Prediction
-- 🌱 Soil Health Analysis
-- 📊 Final Crop Risk Score
-- 📅 7-Day Action Plan
+### 🔍 What it does
 
----
+- 🌿 **Leaf Disease Detection** — analyzes uploaded crop leaf images using a deep-learning model.
+- 🌦️ **Weather Risk Analysis** — evaluates weather-related risks that can affect crops.
+- 🌱 **Soil Health Analysis** — analyzes soil-related information for crop risk assessment.
+- 📊 **Final Crop Risk Score** — combines different risk factors into an overall assessment.
+- 📅 **7-Day Action Plan** — provides actionable recommendations based on the detected risks.
 
-### 📊 AI-Powered Business Intelligence Platform
-
-**Python · Streamlit · Pandas · Data Analysis**
-
-Interactive business intelligence platform for analyzing business datasets with:
-
-- 📈 KPI analysis
-- 🧹 Automated data cleaning
-- 🔎 Exploratory Data Analysis
-- 💰 Sales & profit analysis
-- 📊 Interactive visualizations
+The project combines a React interface, FastAPI backend, PyTorch-based image classification, MySQL data storage and Streamlit-based components.
 
 ---
 
-### 🏥 Hospital Performance Analytics
+## 🤖 [YouTube Hindi Script Writer](https://github.com/adityayadav211207/yt-script-writer)
 
-**Python · Pandas · Matplotlib · Machine Learning**
+**Python · Gemini API · LangChain · Generative AI**
 
-Data analytics platform focused on hospital and patient performance:
+An **AI-powered content generation application** designed to help creators generate engaging Hindi YouTube scripts.
 
-- 👨‍⚕️ Patient analysis
-- 💰 Cost analysis
-- 🛏️ Length-of-stay analysis
-- 🔄 Readmission analysis
-- ⚠️ Risk-level analysis
-- 📊 Hospital performance insights
+### 🔍 What it does
+
+- ✍️ Generates structured Hindi video scripts using AI.
+- 🎯 Helps convert a topic or idea into usable video content.
+- 🤖 Uses Generative AI to create natural-language content.
+- 🔗 Uses LangChain to structure the AI workflow.
+- 🎬 Useful for creators who want to speed up the script-writing process.
+
+This project demonstrates practical use of **LLMs, prompt engineering and AI-powered content generation**.
 
 ---
 
-### 🚦 TrafficVision AI
+## 📈 [Trading Bot](https://github.com/adityayadav211207/trading-bot)
+
+**Python**
+
+A Python-based trading automation project created to explore programmatic trading concepts and automated decision-making.
+
+### 🔍 Project focus
+
+- 🐍 Python-based implementation
+- 📊 Working with trading-related logic and data
+- ⚙️ Automation-oriented programming
+- 🧠 Exploring how software can be used to support trading workflows
+
+The project reflects my interest in combining **Python, automation and data-driven decision-making**.
+
+---
+
+## 🚦 [TrafficVision AI](https://github.com/adityayadav211207/traffic_project)
 
 **Python · Flask · PostgreSQL · HTML · CSS**
 
-Traffic violation and accident hotspot analysis platform featuring:
+A **traffic violation and accident hotspot analysis platform** designed to process traffic datasets and present useful insights through a web-based dashboard.
 
-- 📁 Dataset upload
-- 🧹 Data cleaning
-- 📊 KPI analysis
-- 🚨 Traffic violation analysis
-- 📍 Accident hotspot analysis
-- 🔐 Role-based authentication
+### 🔍 What it does
 
----
+- 📁 Allows administrators to upload traffic datasets.
+- 🧹 Performs data cleaning and preprocessing.
+- 📊 Calculates important KPIs from the dataset.
+- 🚨 Analyzes traffic violations.
+- 📍 Helps identify accident hotspots.
+- 📈 Presents data through an interactive dashboard.
+- 🔐 Includes role-based authentication for users and administrators.
 
-### 🤖 Generative AI Applications
-
-**Python · LangChain · Gemini API · Streamlit**
-
-Built multiple AI-powered applications including:
-
-- ✍️ YouTube Hindi Script Writer
-- 📝 AI Summarizer
-- ❓ MCQ Quiz Creator
-- 🤖 Generative AI workflows
+The project combines **data analytics, backend development, database management and visualization**.
 
 ---
 
-# 📈 GitHub Statistics
+## 💼 [JPMC Advanced Software Engineering – Forage](https://github.com/adityayadav211207/forage-midas)
+
+**Java**
+
+A project completed as part of the **JPMorgan Chase Advanced Software Engineering Forage program**.
+
+### 🔍 Project focus
+
+- ☕ Java-based software development
+- 🏗️ Working with an existing project structure
+- 🔧 Implementing and understanding software components
+- 💻 Practical exposure to professional software engineering workflows
+
+This project provided hands-on experience with **Java development and real-world software engineering practices**.
+
+---
+
+## 🎮 [Raja-Mantri-Chor-Sipahi](https://github.com/adityayadav211207/Raja-Mantri-Chor-Sipahi)
+
+**TypeScript**
+
+A web-based implementation of the classic **Raja-Mantri-Chor-Sipahi** game.
+
+### 🔍 Project highlights
+
+- 🎮 Interactive browser-based game
+- 💻 TypeScript implementation
+- 🧠 Game logic and player interaction
+- 🌐 Web-based user experience
+
+The project demonstrates practical experience with **TypeScript and interactive web application development**.
+
+---
+
+# 🧠 What I Work With
+
+```text
+Python
+  │
+  ├── Data Analysis
+  │     ├── Pandas
+  │     ├── NumPy
+  │     ├── Matplotlib
+  │     └── Seaborn
+  │
+  ├── Machine Learning
+  │     ├── Scikit-learn
+  │     └── PyTorch
+  │
+  └── Generative AI
+        ├── Gemini API
+        └── LangChain
+
+SQL
+  │
+  ├── MySQL
+  ├── PostgreSQL
+  └── SQL Server
+
+Web Development
+  │
+  ├── React
+  ├── Flask
+  ├── FastAPI
+  └── Streamlit
+```
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adityayadav211207&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=adityayadav211207&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityayadav211207&layout=compact&theme=tokyonight&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityayadav211207&layout=compact&theme=tokyonight&hide_border=true" height="180">
 
 </div>
 
@@ -181,19 +256,53 @@ Built multiple AI-powered applications including:
 
 # 🎯 Current Focus
 
-```text
-Python
-   ↓
-SQL
-   ↓
-Data Cleaning
-   ↓
-Exploratory Data Analysis
-   ↓
-Data Visualization
-   ↓
-Statistics
-   ↓
-Machine Learning
-   ↓
-Real-World Data Projects
+I'm currently focusing on developing my skills in:
+
+- 📊 Data Analytics
+- 🐍 Python for Data Analysis
+- 🗄️ Advanced SQL
+- 🧹 Data Cleaning & Preprocessing
+- 🔎 Exploratory Data Analysis
+- 📈 Data Visualization
+- 📐 Statistics
+- 🤖 Machine Learning
+- 🧠 Generative AI
+- 📊 Power BI
+
+---
+
+# 💡 My Career Goal
+
+> **To become a skilled Data Analyst who can transform raw data into meaningful insights and build data-driven solutions for real-world problems.**
+
+I'm particularly interested in combining **Data Analytics + AI/ML** to create intelligent and practical applications.
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/adityayadav211207">
+<img src="https://img.shields.io/badge/GitHub-adityayadav211207-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my GitHub profile!
+
+![Profile Views](https://komarev.com/ghpvc/?username=adityayadav211207&style=for-the-badge)
+
+</div>
